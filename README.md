@@ -2,6 +2,7 @@
 ## 🚀 Live Application
 
 The project is deployed using *Streamlit Community Cloud*.
+https://student-management-system-yjuogofdt6aksupxj4dzx9.streamlit.app
 
 ---
 
